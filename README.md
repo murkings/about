@@ -1,6 +1,6 @@
 <h1 align="center">Sup, I'm Murkz</h1>
 <h3 align="center">A passionate front end developer from America</h3>
-<img align="center" alt="Murkings (irl photo ong)" width="600" src="https://media.discordapp.net/attachments/1016145477655347301/1016150378619863080/1662229246536_8f442172f91fcef53421022c004aab07.jpeg">
+<img align="left" alt="Murkings (irl photo ong)" width="300" src="https://media.discordapp.net/attachments/1016145477655347301/1016150378619863080/1662229246536_8f442172f91fcef53421022c004aab07.jpeg">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=murkings&label=Profile%20views&color=0e75b6&style=flat" alt="murkings" /> </p>
